@@ -4,12 +4,12 @@
     - Machine Learning
     - Full Stack Applications
     - Firmware and Embedded Systems
-- 🌱 I am a senior pursing a Masters degree in
+- 🌱 I am a senior pursuing a Masters degree in
      Computer Engineering from Purdue University.
-     I will finish my undergrad in CompE fall '24 with
-     conecntrations in AI/ML, and Software Engineering.
+     I will finish my undergrad in CompE fall '24
+     with concentrations in AI/ML, and Software Engineering.
      I am pursuing Purdue's plus 1 Masters program and expect
-     completed this program by fall '25.
+     to complete this program by fall '25.
 - 📫 How to reach me
     - Email:       gwphilli@purdue.edu
     - LinkedIn:   @garrett-w-phillips
