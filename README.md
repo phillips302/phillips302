@@ -12,5 +12,5 @@
      to complete this program by fall '25.
 - 📫 How to reach me
     - Email:       gwphilli@purdue.edu
-    - LinkedIn:    https://linkedin/in/garrett-w-phillips
+    - LinkedIn:    https://www.linkedin.com/in/garrett-w-phillips/
     - Website:     https://garrettwphillips.com/
